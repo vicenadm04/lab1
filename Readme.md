@@ -1,0 +1,3 @@
+# 1)crear el entorno virtual con python -m venv venv
+# 2)para activar el entorno .\venv\Scripts\activate
+# 3)instalo con pip install -r .\requirements.txt
