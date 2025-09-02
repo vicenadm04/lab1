@@ -35,8 +35,8 @@ Autor del dataset: Yasser H. (Kaggle).
 
 Referencia teórica: Wes McKinney, Python for Data Analysis (Capítulo 10 : Data Aggregation and Group Operations) 3E.
 
-Autores del mini curso: **Equipo NULL**
-**Medina Alexis**
-**Miño Alberto**
-**Orgoñ Nahiara**
+Autores del mini curso: **Equipo NULL** <br>
+**Medina Alexis**<br>
+**Miño Alberto**<br>
+**Orgoñ Nahiara**<br>
 **Di Nubila Meneghini Vicente Adrian**.
